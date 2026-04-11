@@ -1,87 +1,82 @@
-# Hey there, I'm Yashwant Raj 👋
+<div align="center">
 
-<p align="left">
-  <em>Cyber Security Enthusiast • AI/ML Learner • Python & C++ Developer</em>
+# 🛡️ Yashwant Raj | Security Engineer & Full-Stack Developer
+*Architecting secure systems & engineering robust applications.*
+
+<!-- Intro animation -->
+<a href="https://github.com/yashwantraj147-eng">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Cybersecurity+Researcher+and+Enthusiast;Senior+Full-Stack+Engineer;Zero-Trust+Architecture+Advocate;Machine+Learning+in+SecOps" alt="Typing SVG" />
+</a>
+
+<p align="center">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=yashwantraj147-eng&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</div>
+
+---
+
+### 🕵️‍♂️ About Me
+I'm a dual-focused **Cyber Security Engineer** and **Full-Stack Developer** passionate about blending secure infrastructure with seamless user experiences. Specializing in threat detection, vulnerability analysis, and end-to-end web architecture.
+
+- 🔭 Currently architecting **AI-Driven SIEMs**, **Honeypot Systems**, and state-of-the-art **NIDS models**.
+- 🔐 Researching zero-day vulnerabilities, quantum malware resistance, and defensive security frameworks.
+- 💬 Ask me about **FastAPI, React, Reverse Engineering, Cryptography, and Cloud Sec.**
+
+---
+
+### ⚙️ Tactical Stack
+
+<div align="center">
+
+**[ 🛡️ Cybersecurity & Forensics ]**  
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white) 
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_Intrusion_Response-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+
+**[ 💻 Full-Stack Architecture ]**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) 
+
+</div>
+
+---
+
+### 📂 Featured Operations
+
+| Project | Description | Role / Tech |
+| :--- | :--- | :--- |
+| **🚨 [SIEM Dashboard](https://github.com/yashwantraj147-eng/siem-dashboard)** | Full-stack cloud-ready SIEM platform capable of real-time log ingestion, alert processing, and visual web analytics. | `FastAPI`, `Tailwind`, `SQLite`, `Chart.js` |
+| **🛡️ Modular Honeypot System** | Custom security tool emulating vulnerable services to attract, log, and alert on attacker behavior. | `Flask`, `Docker`, `Python` |
+| **🔍 Prod Vulnerability Scanner** | Deep vulnerability scanner including port detection, active CVE matching, and web exploitation testing. | `Python`, `JSON/HTML Output` |
+| **🚦 Network NIDS ML Engine** | Intrusion Detection System utilizing isolation forests to identify network traffic anomalies. | `Scapy`, `Scikit-Learn`, `Rich` |
+
+---
+
+### 📊 GitHub Threat Intelligence (Stats)
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=yashwantraj147-eng&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwantraj147-eng&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashwantraj147-eng&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yashwantraj147-eng&color=blueviolet" alt="Profile views"/>
 </p>
-
----
-
-## 🧠 About Me
-
-- 🔐 Passionate about **Cyber Security** and secure software practices  
-- 🤖 Exploring **AI/ML** and practical intelligent systems  
-- 🐍 Strong interest in **Python** for automation, ML, and scripting  
-- ⚙️ Building problem-solving skills with **C++** and core CS fundamentals  
-- 🎯 Looking for **Freelance** and **Internship** opportunities  
-
----
-
-## ⚡ Tech Focus
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" />
-  <img src="https://img.shields.io/badge/Cyber%20Security-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
-  <img src="https://img.shields.io/badge/AI%2FML-111111?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
-  <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624" />
-  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032" />
-</p>
-
----
-
-## 🚀 Featured Work
-
-> *(Replace these with your actual best repos as you grow. If you want, I’ll fill these from your real repos next.)*
-
-- 🔎 **Vulnerability Scanner (Python)**  
-  CLI-based scanner to detect common web security misconfigurations and basic vulnerabilities.
-
-- 🛡️ **Password Strength & Breach Checker**  
-  Tool to evaluate password entropy and check exposure patterns securely.
-
-- 🧠 **ML Threat Detection Prototype**  
-  Anomaly detection model for suspicious log/event patterns using Python ML stack.
-
-- ⚙️ **DSA Toolkit in C++**  
-  Optimized implementations of core algorithms and data structures with benchmark notes.
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yashwantraj147-eng&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwantraj147-eng&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=yashwantraj147-eng&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🎯 2026 Goals
-
-- ✅ Build and publish security-focused Python tools  
-- ✅ Ship 2+ real AI/ML mini projects with clean documentation  
-- ✅ Contribute to open-source security/ML repositories  
-- ✅ Land meaningful **internship/freelance** roles  
-
----
-
-## 🤝 Let’s Collaborate
-
-I’m open to:
-- **Freelance projects** (Python scripting, automation, basic security tooling)
-- **Internship opportunities** (Cyber Security, AI/ML, Software Engineering)
-
-If you’d like to collaborate, feel free to connect!
-
-<!-- Add your links below -->
-<!-- LinkedIn: https://linkedin.com/in/your-link -->
-<!-- Portfolio: https://your-portfolio.com -->
-<!-- Email: your-email@example.com -->

@@ -13,10 +13,20 @@
 <!-- Social Badges -->
 <p>
   <a href="https://github.com/yashwantraj147-eng?tab=repositories">
-    <img src="https://img.shields.io/badge/17+_Repos-238636?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
+    <img src="https://img.shields.io/badge/19+_Repos-238636?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
   </a>
   <img src="https://img.shields.io/badge/VIT_Bhopal-24BCY10176-58A6FF?style=for-the-badge&logo=academia&logoColor=white" alt="University"/>
   <img src="https://komarev.com/ghpvc/?username=yashwantraj147-eng&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS" alt="Profile views"/>
+</p>
+
+<!-- Connect Badges -->
+<p>
+  <a href="mailto:yashwantraj147@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/yashwantraj147-eng">
+    <img src="https://img.shields.io/badge/Follow-100000?style=for-the-badge&logo=github&logoColor=white" alt="Follow"/>
+  </a>
 </p>
 
 </div>
@@ -28,13 +38,15 @@
 
 ```yaml
 name: Yashwant Raj
-located_in: India
-university: VIT Bhopal (24BCY10176)
+located_in: India 🇮🇳
+university: VIT Bhopal (24BCY10176) — B.Tech Cybersecurity, Class of '28
+status: Open to collaborate & hireable
 
 current_focus:
   - "Building AI-driven security platforms"
   - "Crafting desktop digital organisms & simulations"
   - "Engineering custom database engines in Java"
+  - "3D cyber threat intelligence visualization"
 
 domains:
   primary: "Cybersecurity & Offensive Security"
@@ -43,6 +55,14 @@ domains:
 
 philosophy: "Security is not a product, but a process — and creativity is the exploit."
 ```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🔭 Currently Working On
+
+- 🌐 **[Phantom Grid](https://github.com/yashwantraj147-eng/phantom-grid)** — Real-time 3D cyber threat intelligence engine with MITRE ATT&CK mapping &nbsp; [![Live Demo](https://img.shields.io/badge/🔴_LIVE-238636?style=flat-square)](https://yashwantraj147-eng.github.io/phantom-grid/)
+- 📖 **[Manhwa Void](https://github.com/yashwantraj147-eng/manhwa-void)** — Manhwa webtoon reader with infinite scroll, procedural audio & Hunter RPG progression
+- 👻 **[Specter-Ops](https://github.com/yashwantraj147-eng/specter-ops)** — Advanced red/blue team engagement simulation platform
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -104,6 +124,25 @@ philosophy: "Security is not a product, but a process — and creativity is the 
 <tr>
 <td width="50%">
 
+<h3 align="center">🌐 Phantom Grid</h3>
+<p align="center">
+  <a href="https://github.com/yashwantraj147-eng/phantom-grid">
+    <img src="https://img.shields.io/badge/VIEW_REPO-238636?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://yashwantraj147-eng.github.io/phantom-grid/">
+    <img src="https://img.shields.io/badge/LIVE_DEMO-FF4500?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+</p>
+<p align="center">Real-time 3D cyber threat intelligence & attack simulation engine with MITRE ATT&CK mapping, WebGL visualization, and SOC dashboard.</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white"/>
+</p>
+
+</td>
+<td width="50%">
+
 <h3 align="center">🚨 SIEM Dashboard</h3>
 <p align="center">
   <a href="https://github.com/yashwantraj147-eng/siem-dashboard">
@@ -118,6 +157,8 @@ philosophy: "Security is not a product, but a process — and creativity is the 
 </p>
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 <h3 align="center">🕸️ Honeypot System</h3>
@@ -134,8 +175,6 @@ philosophy: "Security is not a product, but a process — and creativity is the 
 </p>
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 <h3 align="center">🔍 Vulnerability Scanner</h3>
@@ -152,6 +191,8 @@ philosophy: "Security is not a product, but a process — and creativity is the 
 </p>
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 <h3 align="center">🚦 NIDS ML Engine</h3>
@@ -168,9 +209,7 @@ philosophy: "Security is not a product, but a process — and creativity is the 
 </p>
 
 </td>
-</tr>
-<tr>
-<td width="50%" colspan="2">
+<td width="50%">
 
 <h3 align="center">👻 Specter-Ops</h3>
 <p align="center">
@@ -182,6 +221,25 @@ philosophy: "Security is not a product, but a process — and creativity is the 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/>
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" colspan="2">
+
+<h3 align="center">🔐 OSS Security Audit — LibreOffice</h3>
+<p align="center">
+  <a href="https://github.com/yashwantraj147-eng/oss-audit-24BCY10176">
+    <img src="https://img.shields.io/badge/VIEW_REPO-238636?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/github/stars/yashwantraj147-eng/oss-audit-24BCY10176?style=for-the-badge&color=e3b341&logo=github" alt="Stars"/>
+</p>
+<p align="center">Comprehensive open-source security audit of LibreOffice — VIT Bhopal capstone project with vulnerability analysis and hardening recommendations.</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Security_Audit-DC143C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LibreOffice-18A303?style=flat-square&logo=libreoffice&logoColor=white"/>
 </p>
 
 </td>
@@ -315,7 +373,7 @@ philosophy: "Security is not a product, but a process — and creativity is the 
 
 <table>
 <tr>
-<td width="33%">
+<td width="25%">
 
 <h3 align="center">⚔️ Emberforge</h3>
 <p align="center">
@@ -329,7 +387,7 @@ philosophy: "Security is not a product, but a process — and creativity is the 
 </p>
 
 </td>
-<td width="33%">
+<td width="25%">
 
 <h3 align="center">🧙 File-Wizard</h3>
 <p align="center">
@@ -343,15 +401,32 @@ philosophy: "Security is not a product, but a process — and creativity is the 
 </p>
 
 </td>
-<td width="33%">
+<td width="25%">
 
 <h3 align="center">📚 AffectiveLMS</h3>
 <p align="center">
   <a href="https://github.com/yashwantraj147-eng/AffectiveLMS">
     <img src="https://img.shields.io/badge/REPO-e3b341?style=for-the-badge&logo=github&logoColor=black"/>
   </a>
+  <a href="https://affective-lms.vercel.app">
+    <img src="https://img.shields.io/badge/LIVE-FF4500?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 <p align="center">Emotion-aware learning management system with adaptive content delivery</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
+
+</td>
+<td width="25%">
+
+<h3 align="center">📖 Manhwa Void</h3>
+<p align="center">
+  <a href="https://github.com/yashwantraj147-eng/manhwa-void">
+    <img src="https://img.shields.io/badge/REPO-e3b341?style=for-the-badge&logo=github&logoColor=black"/>
+  </a>
+</p>
+<p align="center">Modern manhwa webtoon reader with infinite scroll, procedural audio & RPG progression</p>
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </p>
@@ -413,7 +488,20 @@ philosophy: "Security is not a product, but a process — and creativity is the 
 
 <div align="center">
 
-### 💡 *"Security is not a product, but a process — and creativity is the exploit."*
+### 📬 Let's Connect
+
+<p>
+  <a href="mailto:yashwantraj147@gmail.com">
+    <img src="https://img.shields.io/badge/yashwantraj147@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/yashwantraj147-eng">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<br/>
+
+### 💡 *"The best defense is not just understanding the offense — it's building something that makes the offense irrelevant."*
 
 <br/>
 

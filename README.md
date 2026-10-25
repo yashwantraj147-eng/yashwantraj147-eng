@@ -13,7 +13,7 @@
 <!-- Social Badges -->
 <p>
   <a href="https://github.com/yashwantraj147-eng?tab=repositories">
-    <img src="https://img.shields.io/badge/19+_Repos-238636?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
+    <img src="https://img.shields.io/badge/20+_Repos-238636?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
   </a>
   <img src="https://img.shields.io/badge/VIT_Bhopal-24BCY10176-58A6FF?style=for-the-badge&logo=academia&logoColor=white" alt="University"/>
   <img src="https://komarev.com/ghpvc/?username=yashwantraj147-eng&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS" alt="Profile views"/>
@@ -60,6 +60,7 @@ philosophy: "Security is not a product, but a process — and creativity is the 
 
 ## 🔭 Currently Working On
 
+- 📻 **[Project SOMNIA](https://github.com/yashwantraj147-eng/project-somnia)** — Deeply interactive fictional operating system from an alternate reality with VFS, 42 websites, and clue engine
 - 🌐 **[Phantom Grid](https://github.com/yashwantraj147-eng/phantom-grid)** — Real-time 3D cyber threat intelligence engine with MITRE ATT&CK mapping &nbsp; [![Live Demo](https://img.shields.io/badge/🔴_LIVE-238636?style=flat-square)](https://yashwantraj147-eng.github.io/phantom-grid/)
 - 📖 **[Manhwa Void](https://github.com/yashwantraj147-eng/manhwa-void)** — Manhwa webtoon reader with infinite scroll, procedural audio & Hunter RPG progression
 - 👻 **[Specter-Ops](https://github.com/yashwantraj147-eng/specter-ops)** — Advanced red/blue team engagement simulation platform
@@ -316,6 +317,26 @@ philosophy: "Security is not a product, but a process — and creativity is the 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/>
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" colspan="2">
+
+<h3 align="center">📻 SOMNIA // Alternate Reality Operating System</h3>
+<p align="center">
+  <a href="https://github.com/yashwantraj147-eng/project-somnia">
+    <img src="https://img.shields.io/badge/VIEW_REPO-6e40c9?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+<p align="center">A deeply interactive simulated operating system from an alternate reality concealing an interconnected mystery — featuring a virtual file system, 42 fictional websites, terminal shell with pipe grammar, Web Audio telemetry soundscapes, and an interactive evidence board with timeline branching.</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Web_Audio_API-FFA500?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Simulation_OS-008080?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white"/>
 </p>
 
 </td>

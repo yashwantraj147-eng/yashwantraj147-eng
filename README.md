@@ -60,6 +60,7 @@ philosophy: "Security is not a product, but a process — and creativity is the 
 
 ## 🔭 Currently Working On
 
+- 🔍 **[RepoLens](https://github.com/yashwantraj147-eng/repolens)** — Full-stack GitHub repository architecture visualizer with Mermaid diagrams, AI summaries & 7-point health scoring
 - 📻 **[Project SOMNIA](https://github.com/yashwantraj147-eng/project-somnia)** — Deeply interactive fictional operating system from an alternate reality with VFS, 42 websites, and clue engine
 - 🌐 **[Phantom Grid](https://github.com/yashwantraj147-eng/phantom-grid)** — Real-time 3D cyber threat intelligence engine with MITRE ATT&CK mapping &nbsp; [![Live Demo](https://img.shields.io/badge/🔴_LIVE-238636?style=flat-square)](https://yashwantraj147-eng.github.io/phantom-grid/)
 - 📖 **[Manhwa Void](https://github.com/yashwantraj147-eng/manhwa-void)** — Manhwa webtoon reader with infinite scroll, procedural audio & Hunter RPG progression
@@ -388,11 +389,36 @@ philosophy: "Security is not a product, but a process — and creativity is the 
 
 <div align="center">
 
-### 🛠️ `TOOLS & OTHER PROJECTS`
+### 🛠️ `DEVELOPER PLATFORMS & SYSTEM TOOLS`
 
 </div>
 
 <table>
+<tr>
+<td width="100%" colspan="4">
+
+<h3 align="center">🔍 RepoLens — Repository Intelligence & Architecture Analyzer</h3>
+<p align="center">
+  <a href="https://github.com/yashwantraj147-eng/repolens">
+    <img src="https://img.shields.io/badge/VIEW_REPO-238636?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Coverage-100%25-brightgreen?style=for-the-badge" alt="Coverage"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+</p>
+<p align="center">Portfolio-grade repository analysis engine — drop any public GitHub repository URL to generate a plain-English purpose summary, interactive Mermaid architecture diagram, contributor onboarding guide, and a 0–100 weighted health score across 7 key engineering signals.</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python_3.11+-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mermaid.js-FF3670?style=flat-square&logo=mermaid&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
+
+</td>
+</tr>
 <tr>
 <td width="25%">
 

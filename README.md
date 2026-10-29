@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://github.com/yashwantraj147-eng">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%94%90+Building+Secure+Systems+That+Scale;%F0%9F%8E%A8+Crafting+Digital+Organisms+%26+Living+Simulations;%F0%9F%97%84%EF%B8%8F+Engineering+Databases+From+Scratch;%E2%9A%94%EF%B8%8F+Red+Team+%2F+Blue+Team+%2F+Purple+Team" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=165&lines=%F0%9F%94%90+Building+Secure+Systems+That+Scale;%F0%9F%8E%A8+Crafting+Digital+Organisms+%26+Living+Simulations;%F0%9F%97%84%EF%B8%8F+Engineering+Databases+From+Scratch;%E2%9A%94%EF%B8%8F+Red+Team+%2F+Blue+Team+%2F+Purple+Team" alt="Typing SVG" />
 </a>
 
 <br/>

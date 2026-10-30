@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://github.com/yashwantraj147-eng">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=165&lines=%F0%9F%94%90+Building+Secure+Systems+That+Scale;%F0%9F%8E%A8+Crafting+Digital+Organisms+%26+Living+Simulations;%F0%9F%97%84%EF%B8%8F+Engineering+Databases+From+Scratch;%E2%9A%94%EF%B8%8F+Red+Team+%2F+Blue+Team+%2F+Purple+Team" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=165&lines=%F0%9F%94%90+Building+Secure+Systems+That+Scale;%F0%9F%93%96+Architecting+Cross-Platform+Desktop+Engines;%F0%9F%8E%A8+Crafting+Digital+Organisms+%26+Living+Simulations;%F0%9F%97%84%EF%B8%8F+Engineering+Databases+From+Scratch;%E2%9A%94%EF%B8%8F+Red+Team+%2F+Blue+Team+%2F+Purple+Team" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -13,7 +13,7 @@
 <!-- Social Badges -->
 <p>
   <a href="https://github.com/yashwantraj147-eng?tab=repositories">
-    <img src="https://img.shields.io/badge/20+_Repos-238636?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
+    <img src="https://img.shields.io/badge/23+_Repos-238636?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
   </a>
   <img src="https://img.shields.io/badge/VIT_Bhopal-24BCY10176-58A6FF?style=for-the-badge&logo=academia&logoColor=white" alt="University"/>
   <img src="https://komarev.com/ghpvc/?username=yashwantraj147-eng&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS" alt="Profile views"/>
@@ -43,15 +43,16 @@ university: VIT Bhopal (24BCY10176) — B.Tech Cybersecurity, Class of '28
 status: Open to collaborate & hireable
 
 current_focus:
-  - "Building AI-driven security platforms"
-  - "Crafting desktop digital organisms & simulations"
-  - "Engineering custom database engines in Java"
-  - "3D cyber threat intelligence visualization"
+  - "Building AI-driven security & repository intelligence platforms"
+  - "Engineering cross-platform desktop reading & simulation engines"
+  - "Crafting desktop digital organisms & virtual alternate-reality OSs"
+  - "Engineering custom database & storage engines in Java"
+  - "3D cyber threat intelligence & MITRE ATT&CK visualization"
 
 domains:
   primary: "Cybersecurity & Offensive Security"
   secondary: "Systems Programming & Database Internals"
-  creative: "Generative Desktop Art & Digital Terrariums"
+  creative: "Generative Desktop Art, Simulations & Digital Terrariums"
 
 philosophy: "Security is not a product, but a process — and creativity is the exploit."
 ```
@@ -60,6 +61,8 @@ philosophy: "Security is not a product, but a process — and creativity is the 
 
 ## 🔭 Currently Working On
 
+- 📖 **[PageTurn](https://github.com/yashwantraj147-eng/pageturn)** — Modern cross-platform desktop e-book reader (EPUB, PDF, Kindle, Comics) with TTS karaoke player & SQLite persistence
+- 📜 **[GitStory](https://github.com/yashwantraj147-eng/gitstory)** — Interactive historical repository storytelling engine with animated timelines & contributor race charts
 - 🔍 **[RepoLens](https://github.com/yashwantraj147-eng/repolens)** — Full-stack GitHub repository architecture visualizer with Mermaid diagrams, AI summaries & 7-point health scoring
 - 📻 **[Project SOMNIA](https://github.com/yashwantraj147-eng/project-somnia)** — Deeply interactive fictional operating system from an alternate reality with VFS, 42 websites, and clue engine
 - 🌐 **[Phantom Grid](https://github.com/yashwantraj147-eng/phantom-grid)** — Real-time 3D cyber threat intelligence engine with MITRE ATT&CK mapping &nbsp; [![Live Demo](https://img.shields.io/badge/🔴_LIVE-238636?style=flat-square)](https://yashwantraj147-eng.github.io/phantom-grid/)
@@ -92,21 +95,22 @@ philosophy: "Security is not a product, but a process — and creativity is the 
   <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
 </p>
 
-### `// FRAMEWORKS & PLATFORMS`
+### `// FRAMEWORKS, DESKTOP & PLATFORMS`
 <p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
 </p>
 
 ### `// DATA & STORAGE`
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Custom_DB_Engines-FF4500?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
 
@@ -114,7 +118,7 @@ philosophy: "Security is not a product, but a process — and creativity is the 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## ⚡ Operations Center: Featured Projects
+## 🎯 Operations Center: Featured Projects
 
 <div align="center">
 
@@ -145,7 +149,7 @@ philosophy: "Security is not a product, but a process — and creativity is the 
 </td>
 <td width="50%">
 
-<h3 align="center">🚨 SIEM Dashboard</h3>
+<h3 align="center">📊 SIEM Dashboard</h3>
 <p align="center">
   <a href="https://github.com/yashwantraj147-eng/siem-dashboard">
     <img src="https://img.shields.io/badge/VIEW_REPO-238636?style=for-the-badge&logo=github&logoColor=white"/>
@@ -163,7 +167,7 @@ philosophy: "Security is not a product, but a process — and creativity is the 
 <tr>
 <td width="50%">
 
-<h3 align="center">🕸️ Honeypot System</h3>
+<h3 align="center">🍯 Honeypot System</h3>
 <p align="center">
   <a href="https://github.com/yashwantraj147-eng/honeypot-system">
     <img src="https://img.shields.io/badge/VIEW_REPO-238636?style=for-the-badge&logo=github&logoColor=white"/>
@@ -197,7 +201,7 @@ philosophy: "Security is not a product, but a process — and creativity is the 
 <tr>
 <td width="50%">
 
-<h3 align="center">🚦 NIDS ML Engine</h3>
+<h3 align="center">🛡️ NIDS ML Engine</h3>
 <p align="center">
   <a href="https://github.com/yashwantraj147-eng/nids-project">
     <img src="https://img.shields.io/badge/VIEW_REPO-238636?style=for-the-badge&logo=github&logoColor=white"/>
@@ -230,7 +234,7 @@ philosophy: "Security is not a product, but a process — and creativity is the 
 <tr>
 <td width="50%" colspan="2">
 
-<h3 align="center">🔐 OSS Security Audit — LibreOffice</h3>
+<h3 align="center">🔬 OSS Security Audit — LibreOffice</h3>
 <p align="center">
   <a href="https://github.com/yashwantraj147-eng/oss-audit-24BCY10176">
     <img src="https://img.shields.io/badge/VIEW_REPO-238636?style=for-the-badge&logo=github&logoColor=white"/>
@@ -250,15 +254,41 @@ philosophy: "Security is not a product, but a process — and creativity is the 
 
 <div align="center">
 
-### 🧬 `DIGITAL ORGANISMS & CREATIVE DESKTOP APPS`
+### 🔮 `DIGITAL ORGANISMS & CREATIVE DESKTOP APPS`
 
 </div>
 
 <table>
 <tr>
+<td width="100%" colspan="2">
+
+<h3 align="center">📖 PageTurn — Modern Cross-Platform Desktop E-Book Reader</h3>
+<p align="center">
+  <a href="https://github.com/yashwantraj147-eng/pageturn">
+    <img src="https://img.shields.io/badge/VIEW_REPO-238636?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Electron_33-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron"/>
+  <img src="https://img.shields.io/badge/React_18-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/SQLite_WAL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+</p>
+<p align="center">Production-grade desktop e-book reader supporting EPUB (2 & 3), PDF, Kindle (MOBI/AZW3/KF8), FictionBook (FB2/FB2.zip), Comics (CBZ/CBR), DOCX, and Markdown with magic-byte signature detection. Features 3D physical book spine lighting, floating Text-to-Speech audio bar with real-time sentence & word karaoke highlighting, 4 instant themes (Light, Sepia Parchment, Dark, OLED Pure Black), multi-color highlights, notes, offline dictionary, and local SQLite persistence.</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/better--sqlite3-003B57?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Web_Speech_TTS-FFA500?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white"/>
+</p>
+
+</td>
+</tr>
+<tr>
 <td width="50%">
 
-<h3 align="center">🌌 EIDOLON Laboratory</h3>
+<h3 align="center">🔬 EIDOLON Laboratory</h3>
 <p align="center">
   <a href="https://github.com/yashwantraj147-eng/eidolon-laboratory">
     <img src="https://img.shields.io/badge/VIEW_REPO-6e40c9?style=for-the-badge&logo=github&logoColor=white"/>
@@ -274,7 +304,7 @@ philosophy: "Security is not a product, but a process — and creativity is the 
 </td>
 <td width="50%">
 
-<h3 align="center">🧸 ODDLYWORLD</h3>
+<h3 align="center">🎪 ODDLYWORLD</h3>
 <p align="center">
   <a href="https://github.com/yashwantraj147-eng/oddlyworld">
     <img src="https://img.shields.io/badge/VIEW_REPO-6e40c9?style=for-the-badge&logo=github&logoColor=white"/>
@@ -370,7 +400,7 @@ philosophy: "Security is not a product, but a process — and creativity is the 
 </td>
 <td width="50%">
 
-<h3 align="center">⏱️ KronoKV</h3>
+<h3 align="center">⏳ KronoKV</h3>
 <p align="center">
   <a href="https://github.com/yashwantraj147-eng/KronoKV">
     <img src="https://img.shields.io/badge/VIEW_REPO-da3633?style=for-the-badge&logo=github&logoColor=white"/>
@@ -389,32 +419,45 @@ philosophy: "Security is not a product, but a process — and creativity is the 
 
 <div align="center">
 
-### 🛠️ `DEVELOPER PLATFORMS & SYSTEM TOOLS`
+### ⚡ `DEVELOPER PLATFORMS & REPO INTELLIGENCE`
 
 </div>
 
 <table>
 <tr>
-<td width="100%" colspan="4">
+<td width="50%">
 
-<h3 align="center">🔍 RepoLens — Repository Intelligence & Architecture Analyzer</h3>
+<h3 align="center">🔍 RepoLens</h3>
 <p align="center">
   <a href="https://github.com/yashwantraj147-eng/repolens">
     <img src="https://img.shields.io/badge/VIEW_REPO-238636?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <img src="https://img.shields.io/badge/Coverage-100%25-brightgreen?style=for-the-badge" alt="Coverage"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
 </p>
 <p align="center">Portfolio-grade repository analysis engine — drop any public GitHub repository URL to generate a plain-English purpose summary, interactive Mermaid architecture diagram, contributor onboarding guide, and a 0–100 weighted health score across 7 key engineering signals.</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python_3.11+-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mermaid.js-FF3670?style=flat-square&logo=mermaid&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
+
+</td>
+<td width="50%">
+
+<h3 align="center">📜 GitStory</h3>
+<p align="center">
+  <a href="https://github.com/yashwantraj147-eng/gitstory">
+    <img src="https://img.shields.io/badge/VIEW_REPO-238636?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Storytelling-Interactive-blueviolet?style=for-the-badge" alt="Storytelling"/>
+</p>
+<p align="center">Turn any GitHub repository into an interactive historical narrative with animated timelines, contributor race charts, visual evolution timelines, and AI-powered storytelling.</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Canvas_API-E34F26?style=flat-square"/>
+  <img src="https://img.shields.io/badge/GitHub_API-181717?style=flat-square&logo=github&logoColor=white"/>
 </p>
 
 </td>

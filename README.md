@@ -5,10 +5,10 @@
 
 <!-- Dynamic Cyber Typing SVG -->
 <a href="https://github.com/yashwantraj147-eng">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=00FF87&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=140&lines=%E2%9A%A1+Building+Secure%2C+High-Performance+Distributed+Systems;%F0%9F%93%96+PageTurn%3A+Cross-Platform+Desktop+Reader+%2B+TTS+Karaoke;%F0%9F%94%90+Red+Team+%2F+Threat+Intelligence+%2F+Offensive+Security;%F0%9F%93%9C+GitStory+%26+RepoLens%3A+Autonomous+Repository+Intelligence;%F0%9F%97%84%EF%B8%8F+Engineering+Custom+Database+Storage+Engines+From+Scratch;%F0%9F%91%BD+Crafting+Desktop+Digital+Organisms+%26+Alternate-Reality+OSs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=00FF87&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=220&lines=%E2%9A%A1+Building+Secure%2C+High-Performance+Distributed+Systems;%F0%9F%93%96+PageTurn%3A+Cross-Platform+Desktop+Reader+%2B+TTS+Karaoke;%F0%9F%94%90+Red+Team+%2F+Threat+Intelligence+%2F+Offensive+Security;%F0%9F%93%9C+GitStory+%26+RepoLens%3A+Autonomous+Repository+Intelligence;%F0%9F%97%84%EF%B8%8F+Engineering+Custom+Database+Storage+Engines+From+Scratch;%F0%9F%91%BD+Crafting+Desktop+Digital+Organisms+%26+Alternate-Reality+OSs" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 <!-- Real-time Status Telemetry HUD -->
 <p align="center">

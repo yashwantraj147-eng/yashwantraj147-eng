@@ -56,23 +56,24 @@ PHILOSOPHY: "Building systems from the ground up to deeply understand performanc
 <tr>
 <td width="50%" valign="top">
 
-### 🍯 [Honeypot-System v2.0](https://github.com/yashwantraj147-eng/honeypot-system)
+### 🍯 [Honeypot-System v2.0 Enterprise](https://github.com/yashwantraj147-eng/honeypot-system)
 **Autonomous Multi-Service Deception Grid & Threat Intelligence Pipeline**
 
-An industry-grade, asynchronous deception sensor grid across SSH, HTTP, FTP, and Telnet with real-time MITRE ATT&CK payload categorization.
+An industry-grade, asynchronous deception sensor grid across SSH, HTTP, FTP, and Telnet with real-time MITRE ATT&CK payload categorization and automated NIDS rule synthesis.
 
-- 🐚 **Paramiko SSH Pseudo-Terminal**: In-memory Ubuntu TTY session emulator with keystroke logging to JSON and replay API.
-- 🛡️ **Active Web Traps & Defense**: Exposes `/.env` cloud lures, `/wp-login.php`, `/actuator/health`; features **10 B/s streaming tarpits** & **10MB gzip decompression defense bombs**.
-- 📡 **Automated Threat Feeds**: Generates plain-text `<ip>/32` CIDR feeds for pfSense/OPNsense/iptables and OASIS STIX 2.1 JSON bundles for Splunk/Sentinel.
-- 🗺️ **Leaflet.js SOC Dashboard**: Real-time WebSocket intrusion stream, global radar map with pulsating blips, and in-browser CRT terminal playback.
+- 🐚 **Stateful Linux VFS (SSH Decoy)**: Emulated in-memory Virtual File System with directory traversal (`cd`), file creation (`echo > file`), malware interception (`wget`), and interactive session playback.
+- 🛡️ **Weaponized Exploit Traps & Active Defense**: Traps Log4Shell (`${jndi:...}`), XML-RPC, Spring4Shell, and `.env` cloud lures; neutralizes automated scanners with **10 B/s streaming tarpits** and **10MB gzip defense bombs**.
+- 📡 **Automated CTI Distribution**: Generates OASIS STIX 2.1 JSON bundles, pfSense/OPNsense CIDR blocklists, **Snort & Suricata NIDS rules** (`/snort.rules`), and **ArcSight CEF syslog** (`/syslog.cef`).
+- 🗺️ **SOC Radar & Threat Actor Dossiers**: Leaflet.js cyber radar map, live WebSocket intrusion telemetry, dynamic risk scoring (0–100), and interactive MITRE ATT&CK Matrix Navigator.
 
 ```
-Stack: Python 3.11+ • FastAPI • aiohttp • Paramiko • aiosqlite • Docker • STIX 2.1
+Stack: Python 3.11+ • FastAPI • aiohttp • Paramiko • aiosqlite • Docker • STIX 2.1 • Snort/Suricata
 ```
 <p>
   <a href="https://github.com/yashwantraj147-eng/honeypot-system"><img src="https://img.shields.io/badge/View_Repo-00ff87?style=flat-square&logo=github&logoColor=black"/></a>
-  <a href="https://github.com/yashwantraj147-eng/honeypot-system/blob/master/README.md"><img src="https://img.shields.io/badge/Version-v2.0_Released-00b4d8?style=flat-square"/></a>
+  <a href="https://github.com/yashwantraj147-eng/honeypot-system/blob/master/README.md"><img src="https://img.shields.io/badge/Version-v2.0_Enterprise-00b4d8?style=flat-square"/></a>
   <a href="https://github.com/yashwantraj147-eng/honeypot-system"><img src="https://img.shields.io/badge/MITRE-ATT%26CK_Mapped-red?style=flat-square"/></a>
+  <a href="https://github.com/yashwantraj147-eng/honeypot-system"><img src="https://img.shields.io/badge/NIDS-Snort%20%2F%20Suricata-yellow?style=flat-square"/></a>
 </p>
 
 </td>

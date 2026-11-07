@@ -7,7 +7,7 @@
 
 <!-- Dynamic Focus Typewriter -->
 <a href="https://github.com/yashwantraj147-eng">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=1100&color=00FF87&center=true&vCenter=true&width=780&height=45&lines=Honeypot-System+v2.0%3A+Autonomous+Deception+Grid+%2B+STIX+2.1+Pipeline;PageTurn%3A+Cross-Platform+Desktop+Reader+%2B+TTS+Karaoke;RepoLens%3A+Autonomous+Repository+Intelligence+Engine;AetherDB%3A+Custom+LSM+%2B+Columnar+Engine+in+Java;Phantom+Grid%3A+Real-Time+3D+Cyber+Threat+Visualizer" alt="Typing Focus" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=1100&color=00FF87&center=true&vCenter=true&width=780&height=45&lines=Honeypot-System+v2.0%3A+Autonomous+Deception+Grid+%2B+STIX+2.1+Pipeline;SIEM+Dashboard%3A+Sliding-Window+Correlation+%2B+MITRE+ATT%26CK;PageTurn%3A+Cross-Platform+Desktop+Reader+%2B+TTS+Karaoke;RepoLens%3A+Autonomous+Repository+Intelligence+Engine;AetherDB%3A+Custom+LSM+%2B+Columnar+Engine+in+Java;Phantom+Grid%3A+Real-Time+3D+Cyber+Threat+Visualizer" alt="Typing Focus" />
 </a>
 
 <!-- Real-time Telemetry HUD -->
@@ -40,7 +40,7 @@ ENGINEER:
   program:  "B.Tech in Cybersecurity & Digital Forensics, Class of '28"
 
 RESEARCH_FOCUS:
-  security:  ["Autonomous Multi-Service Deception Grids (Honeypot v2.0)", "Real-Time MITRE ATT&CK Mapping & STIX 2.1 Pipelines", "Packet Dissection (Scapy) & ML NIDS", "CVE Correlation & Vulnerability Scanners"]
+  security:  ["Autonomous Multi-Service Deception Grids (Honeypot v2.0)", "Enterprise SIEM & Sliding-Window Threat Correlation", "Real-Time MITRE ATT&CK Mapping & STIX 2.1 Pipelines", "Packet Dissection (Scapy) & ML NIDS", "CVE Correlation & Vulnerability Scanners"]
   systems:   ["Custom Storage Engine Architecture (LSM-Trees, WAL, Columnar Compression)", "Virtual Thread Concurrency", "Low-Level Socket Traps"]
   platforms: ["Cross-Platform Desktop Engineering (Electron, SQLite WAL)", "Full-Stack Python (FastAPI, aiohttp, Pytest)", "Async Event-Driven Grids"]
   visuals:   ["3D WebGL / Three.js Threat Visualizers", "Autonomous AST & Architecture Graph Generation", "Leaflet.js Cyber Radars"]
@@ -79,21 +79,67 @@ Stack: Python 3.11+ • FastAPI • aiohttp • Paramiko • aiosqlite • Docke
 </td>
 <td width="50%" valign="top">
 
-### 📖 [PageTurn](https://github.com/yashwantraj147-eng/pageturn)
-**Cross-Platform Desktop E-Book Reader & TTS Karaoke**
+### 📊 [SIEM Dashboard Engine](https://github.com/yashwantraj147-eng/siem-dashboard)
+**Enterprise Threat Correlation, High-Throughput Log Telemetry & MITRE ATT&CK Platform**
 
-A production desktop reader supporting EPUB, PDF, Kindle (MOBI/AZW3), Comics (CBZ/CBR), DOCX, and Markdown.
+A production-grade, high-throughput Security Information and Event Management (SIEM) platform engineered to ingest, normalize, correlate, and analyze high-volume security telemetry with sub-second incident triage.
 
-- 🎙️ **Synchronized TTS Karaoke**: Floating audio player with word and sentence-level synchronized visual highlighting and voice pitch controls.
-- 🎨 **4 Display Themes**: Light, Sepia Parchment, Studio Dark, and True OLED Black (`#000000`).
-- ⚡ **Local SQLite Engine**: Fast catalog caching, annotations, and reading progress synchronization via `better-sqlite3`.
+- ⚡ **Batch Telemetry Pipeline**: Normalizes Syslog, SSH Auth, Nginx access, and Windows Event JSONL logs in 500-record transactions with true timestamp preservation.
+- ⚔️ **Sliding-Window Correlation Engine**: Evaluates multi-event correlation rules with strict condition matching and targeted per-host deduplication to eliminate false-positive storms.
+- 🎯 **MITRE ATT&CK Matrix & Incident Triage**: Built-in tactic/technique tagging (`T1110.001`, `T1070.001`), SOC incident triage workflow (`new` ➔ `in_progress` ➔ `resolved` ➔ `false_positive`), and forensic CSV exports.
+- 🚨 **Real-Time SSE & ChatOps Alerting**: Server-Sent Events (SSE) live telemetry feed paired with non-blocking background webhook dispatchers to Slack and Discord.
 
 ```
-Stack: Electron 33 • React 18 • TypeScript • SQLite WAL • Vitest
+Stack: Python 3.12 • FastAPI • SQLAlchemy • Chart.js • Docker • Pytest • MITRE ATT&CK
 ```
 <p>
-  <a href="https://github.com/yashwantraj147-eng/pageturn"><img src="https://img.shields.io/badge/View_Repo-00ff87?style=flat-square&logo=github&logoColor=black"/></a>
-  <a href="https://github.com/yashwantraj147-eng/pageturn/releases"><img src="https://img.shields.io/badge/Release-v1.0.0-00b4d8?style=flat-square"/></a>
+  <a href="https://github.com/yashwantraj147-eng/siem-dashboard"><img src="https://img.shields.io/badge/View_Repo-00ff87?style=flat-square&logo=github&logoColor=black"/></a>
+  <a href="https://github.com/yashwantraj147-eng/siem-dashboard"><img src="https://img.shields.io/badge/Architecture-High--Throughput-00b4d8?style=flat-square"/></a>
+  <a href="https://github.com/yashwantraj147-eng/siem-dashboard"><img src="https://img.shields.io/badge/MITRE-ATT%26CK_Mapped-red?style=flat-square"/></a>
+  <a href="https://github.com/yashwantraj147-eng/siem-dashboard/actions"><img src="https://img.shields.io/badge/CI-Passing-brightgreen?style=flat-square"/></a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ [NIDS Project](https://github.com/yashwantraj147-eng/nids-project)
+**Hybrid Machine Learning & Heuristic Network Intrusion Detection**
+
+Production-ready Network Intrusion Detection System with live packet capture, dual-engine threat analysis, and rich operational telemetry.
+
+- ⚡ **Dual-Stage Detection Engine**: Deterministic signature heuristics combined with Machine Learning classification (Random Forest / Isolation Forests).
+- 📡 **Multi-Channel Alerting**: Instant telemetry dispatch to Discord, Telegram, and centralized syslog backends.
+- 🖥️ **Live Terminal HUD**: High-frequency terminal UI built with Python Rich for live packet stream metrics.
+
+```
+Stack: Python 3.11 • Scapy • Scikit-Learn • Rich CLI • Network Forensics
+```
+<p>
+  <a href="https://github.com/yashwantraj147-eng/nids-project"><img src="https://img.shields.io/badge/View_Repo-00ff87?style=flat-square&logo=github&logoColor=black"/></a>
+  <a href="https://github.com/yashwantraj147-eng/nids-project"><img src="https://img.shields.io/badge/Model-Scikit--Learn-blue?style=flat-square"/></a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 [Phantom Grid](https://github.com/yashwantraj147-eng/phantom-grid)
+**Real-Time 3D Cyber Threat Intelligence Engine**
+
+Interactive 3D cyber telemetry engine designed for Security Operations Centers (SOC) and threat emulation monitoring.
+
+- 🌍 **Interactive WebGL Globe**: Real-time rendering of attack telemetry, originating IP coordinates, and target vectors in 3D space.
+- 🎯 **MITRE ATT&CK Matrix**: Dynamic mapping of detected intrusions against adversary tactic categories.
+- ⚡ **High-FPS Particle Pipeline**: Custom GLSL shaders for smooth rendering under dense telemetry loads.
+
+```
+Stack: TypeScript • Three.js • WebGL • GLSL • Cyber Telemetry
+```
+<p>
+  <a href="https://github.com/yashwantraj147-eng/phantom-grid"><img src="https://img.shields.io/badge/View_Repo-00ff87?style=flat-square&logo=github&logoColor=black"/></a>
+  <a href="https://yashwantraj147-eng.github.io/phantom-grid/"><img src="https://img.shields.io/badge/Live_Demo-Three.js-ff007f?style=flat-square"/></a>
 </p>
 
 </td>
@@ -145,41 +191,41 @@ Stack: Java (21–26) • Virtual Threads • Zero External Dependencies • JUn
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 [Phantom Grid](https://github.com/yashwantraj147-eng/phantom-grid)
-**Real-Time 3D Cyber Threat Intelligence Engine**
+### 📖 [PageTurn](https://github.com/yashwantraj147-eng/pageturn)
+**Cross-Platform Desktop E-Book Reader & TTS Karaoke**
 
-Interactive 3D cyber telemetry engine designed for Security Operations Centers (SOC) and threat emulation monitoring.
+A production desktop reader supporting EPUB, PDF, Kindle (MOBI/AZW3), Comics (CBZ/CBR), DOCX, and Markdown.
 
-- 🌍 **Interactive WebGL Globe**: Real-time rendering of attack telemetry, originating IP coordinates, and target vectors in 3D space.
-- 🎯 **MITRE ATT&CK Matrix**: Dynamic mapping of detected intrusions against adversary tactic categories.
-- ⚡ **High-FPS Particle Pipeline**: Custom GLSL shaders for smooth rendering under dense telemetry loads.
+- 🎙️ **Synchronized TTS Karaoke**: Floating audio player with word and sentence-level synchronized visual highlighting and voice pitch controls.
+- 🎨 **4 Display Themes**: Light, Sepia Parchment, Studio Dark, and True OLED Black (`#000000`).
+- ⚡ **Local SQLite Engine**: Fast catalog caching, annotations, and reading progress synchronization via `better-sqlite3`.
 
 ```
-Stack: TypeScript • Three.js • WebGL • GLSL • Cyber Telemetry
+Stack: Electron 33 • React 18 • TypeScript • SQLite WAL • Vitest
 ```
 <p>
-  <a href="https://github.com/yashwantraj147-eng/phantom-grid"><img src="https://img.shields.io/badge/View_Repo-00ff87?style=flat-square&logo=github&logoColor=black"/></a>
-  <a href="https://yashwantraj147-eng.github.io/phantom-grid/"><img src="https://img.shields.io/badge/Live_Demo-Three.js-ff007f?style=flat-square"/></a>
+  <a href="https://github.com/yashwantraj147-eng/pageturn"><img src="https://img.shields.io/badge/View_Repo-00ff87?style=flat-square&logo=github&logoColor=black"/></a>
+  <a href="https://github.com/yashwantraj147-eng/pageturn/releases"><img src="https://img.shields.io/badge/Release-v1.0.0-00b4d8?style=flat-square"/></a>
 </p>
 
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ [NIDS Project](https://github.com/yashwantraj147-eng/nids-project)
-**Hybrid Machine Learning & Heuristic Network Intrusion Detection**
+### ⏳ [KronoKV](https://github.com/yashwantraj147-eng/KronoKV)
+**Time-Aware Key-Value Engine & Historical Temporal Snapshots**
 
-Production-ready Network Intrusion Detection System with live packet capture, dual-engine threat analysis, and rich operational telemetry.
+High-performance temporal key-value storage engine engineered for time-travel queries and immutable audit trails.
 
-- ⚡ **Dual-Stage Detection Engine**: Deterministic signature heuristics combined with Machine Learning classification (Random Forest / Isolation Forests).
-- 📡 **Multi-Channel Alerting**: Instant telemetry dispatch to Discord, Telegram, and centralized syslog backends.
-- 🖥️ **Live Terminal HUD**: High-frequency terminal UI built with Python Rich for live packet stream metrics.
+- ⏱️ **Point-in-Time Queries**: Query exact historical key states at any prior microsecond timestamp.
+- 💾 **MemTable & Flush Architecture**: In-memory skip-list buffers with background asynchronous SSTable persistence.
+- 🔍 **Range & Prefix Iterators**: Fast sequential access patterns optimized for time-series and audit logs.
 
 ```
-Stack: Python 3.11 • Scapy • Scikit-Learn • Rich CLI • Network Forensics
+Stack: Java 21 • Temporal Indexing • Snapshot Queries • Memory-Mapped I/O
 ```
 <p>
-  <a href="https://github.com/yashwantraj147-eng/nids-project"><img src="https://img.shields.io/badge/View_Repo-00ff87?style=flat-square&logo=github&logoColor=black"/></a>
-  <a href="https://github.com/yashwantraj147-eng/nids-project"><img src="https://img.shields.io/badge/Model-Scikit--Learn-blue?style=flat-square"/></a>
+  <a href="https://github.com/yashwantraj147-eng/KronoKV"><img src="https://img.shields.io/badge/View_Repo-00ff87?style=flat-square&logo=github&logoColor=black"/></a>
+  <a href="https://github.com/yashwantraj147-eng/KronoKV"><img src="https://img.shields.io/badge/Engine-Temporal_KV-7928ca?style=flat-square"/></a>
 </p>
 
 </td>
@@ -194,8 +240,8 @@ Stack: Python 3.11 • Scapy • Scikit-Learn • Rich CLI • Network Forensics
 | Repository | Domain | Core Arsenal | Description |
 |:---|:---|:---|:---|
 | 🍯 **[honeypot-system](https://github.com/yashwantraj147-eng/honeypot-system)** | Deception Grid | `Python` `FastAPI` `aiohttp` `Paramiko` `STIX 2.1` | Autonomous multi-service decoy grid (SSH, HTTP, FTP, Telnet) with real-time MITRE ATT&CK mapping, active tarpits, gzip defense bombs, and pfSense/OPNsense feeds |
+| 📊 **[siem-dashboard](https://github.com/yashwantraj147-eng/siem-dashboard)** | SIEM & SecOps | `Python 3.12` `FastAPI` `SQLAlchemy` `Chart.js` `Docker` `MITRE` | Enterprise SIEM engine with sliding-window threat correlation, batch ingestion, MITRE ATT&CK mapping, alert triage & real-time SSE |
 | 🛡️ **[nids-project](https://github.com/yashwantraj147-eng/nids-project)** | Intrusion Detection | `Python` `Scapy` `Random Forest` `Rich` | Dual-stage Network Intrusion Detection with deterministic heuristics & ML anomaly classification |
-| 📊 **[siem-dashboard](https://github.com/yashwantraj147-eng/siem-dashboard)** | SIEM & SecOps | `FastAPI` `Python` `Tailwind` `Chart.js` | Full-stack cloud-ready SIEM log ingestion, threat correlation rules & SOC visual analytics dashboard |
 | 🔍 **[vuln-scanner](https://github.com/yashwantraj147-eng/vuln-scanner)** | Vulnerability Audit | `Python` `Sockets` `Nmap` `CVE Matching` | Concurrent multi-threaded port fingerprinting, SSL/TLS analysis & automated CVE vulnerability scanning |
 | 🌐 **[phantom-grid](https://github.com/yashwantraj147-eng/phantom-grid)** | Cyber Telemetry | `TypeScript` `Three.js` `WebGL` `GLSL` | Real-Time 3D Cyber Threat Intelligence & attack simulation engine with globe particle shaders |
 | 👻 **[specter-ops](https://github.com/yashwantraj147-eng/specter-ops)** | Adversary Simulation | `TypeScript` `Electron` `Red/Blue Team` | Advanced cybersecurity operations toolkit — red team & blue team engagement simulation workbench |
@@ -236,8 +282,8 @@ Stack: Python 3.11 • Scapy • Scikit-Learn • Rich CLI • Network Forensics
 
 | Domain | Core Tools & Frameworks |
 |:---|:---|
-| **Security & Forensics** | `Kali Linux` • `Wireshark` • `Nmap` • `Metasploit` • `Burp Suite` • `Scapy` • `MITRE ATT&CK` • `OASIS STIX 2.1` • `pfSense / OPNsense` |
-| **Languages & Systems** | `TypeScript` • `Python 3.11+` • `Java (21–26)` • `C++17` • `GNU Bash` • `SQL` • `GLSL` |
+| **Security & Forensics** | `Kali Linux` • `Wireshark` • `Nmap` • `Metasploit` • `Burp Suite` • `Scapy` • `MITRE ATT&CK` • `OASIS STIX 2.1` • `pfSense / OPNsense` • `SIEM Correlators` |
+| **Languages & Systems** | `TypeScript` • `Python 3.11/3.12` • `Java (21–26)` • `C++17` • `GNU Bash` • `SQL` • `GLSL` |
 | **Application Frameworks** | `Electron 33` • `React 18/19` • `FastAPI` • `aiohttp` • `Vite 6` • `Three.js` • `Tailwind CSS` • `Docker` |
 | **Storage & Engines** | `SQLite (WAL)` • `aiosqlite` • `LSM-Trees` • `Write-Ahead Logging (WAL)` • `Bloom Filters` • `PostgreSQL` |
 

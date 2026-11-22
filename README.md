@@ -7,14 +7,14 @@
 
 <!-- Dynamic Focus Typewriter -->
 <a href="https://github.com/yashwantraj147-eng">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=1100&color=00FF87&center=true&vCenter=true&width=780&height=45&lines=Honeypot-System+v2.0%3A+Autonomous+Deception+Grid+%2B+STIX+2.1+Pipeline;SIEM+Dashboard%3A+Sliding-Window+Correlation+%2B+MITRE+ATT%26CK;PageTurn%3A+Cross-Platform+Desktop+Reader+%2B+TTS+Karaoke;RepoLens%3A+Autonomous+Repository+Intelligence+Engine;AetherDB%3A+Custom+LSM+%2B+Columnar+Engine+in+Java;Phantom+Grid%3A+Real-Time+3D+Cyber+Threat+Visualizer" alt="Typing Focus" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=1100&color=00FF87&center=true&vCenter=true&width=820&height=45&lines=AegisForge%3A+Industry-Grade+Purple-Team+Cyber+Range+%2B+Vulnerability+Workbench;Honeypot-System+v2.0%3A+Autonomous+Deception+Grid+%2B+STIX+2.1+Pipeline;SIEM+Dashboard%3A+Sliding-Window+Correlation+%2B+MITRE+ATT%26CK;PageTurn%3A+Cross-Platform+Desktop+Reader+%2B+TTS+Karaoke;RepoLens%3A+Autonomous+Repository+Intelligence+Engine;AetherDB%3A+Custom+LSM+%2B+Columnar+Engine+in+Java;Phantom+Grid%3A+Real-Time+3D+Cyber+Threat+Visualizer" alt="Typing Focus" />
 </a>
 
 <!-- Real-time Telemetry HUD -->
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ARMED_&_MONITORING-00ff87?style=for-the-badge&logo=statuspage&logoColor=black" alt="Status"/>
   <a href="https://github.com/yashwantraj147-eng?tab=repositories">
-    <img src="https://img.shields.io/badge/NODES-23_ACTIVE_REPOS-00b4d8?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+    <img src="https://img.shields.io/badge/NODES-24_ACTIVE_REPOS-00b4d8?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
   </a>
   <img src="https://img.shields.io/badge/VIT_BHOPAL-24BCY10176-7928ca?style=for-the-badge&logo=academia&logoColor=white" alt="University"/>
   <a href="mailto:yashwantraj147@gmail.com">
@@ -40,7 +40,7 @@ ENGINEER:
   program:  "B.Tech in Cybersecurity & Digital Forensics, Class of '28"
 
 RESEARCH_FOCUS:
-  security:  ["Autonomous Multi-Service Deception Grids (Honeypot v2.0)", "Enterprise SIEM & Sliding-Window Threat Correlation", "Real-Time MITRE ATT&CK Mapping & STIX 2.1 Pipelines", "Packet Dissection (Scapy) & ML NIDS", "CVE Correlation & Vulnerability Scanners"]
+  security:  ["Purple-Team Cyber Range Architecture (AegisForge)", "Autonomous Multi-Service Deception Grids (Honeypot v2.0)", "Enterprise SIEM & Sliding-Window Threat Correlation", "Real-Time MITRE ATT&CK Mapping & STIX 2.1 Pipelines", "x86/x64 Shellcode Disassembly & CPU Call Stack Visualizers", "Stateful Protocol Fuzzing & Crash Triage", "Packet Dissection (Scapy) & ML NIDS"]
   systems:   ["Custom Storage Engine Architecture (LSM-Trees, WAL, Columnar Compression)", "Virtual Thread Concurrency", "Low-Level Socket Traps"]
   platforms: ["Cross-Platform Desktop Engineering (Electron, SQLite WAL)", "Full-Stack Python (FastAPI, aiohttp, Pytest)", "Async Event-Driven Grids"]
   visuals:   ["3D WebGL / Three.js Threat Visualizers", "Autonomous AST & Architecture Graph Generation", "Leaflet.js Cyber Radars"]
@@ -54,6 +54,30 @@ PHILOSOPHY: "Building systems from the ground up to deeply understand performanc
 
 <table>
 <tr>
+<td width="50%" valign="top">
+
+### 🛡️ [AegisForge Cyber Range](https://github.com/yashwantraj147-eng/aegisforge)
+**Industry-Grade Purple-Team Cyber Range & Vulnerability Workbench**
+
+A production-grade, modular purple-team platform pairing offensive vulnerability discovery with real-time defensive countermeasures and high-frequency WebSocket telemetry.
+
+- ⚔️ **5 Specialized Security Engines**: Scoped Recon & RFC 9116 CVD advisory generator, 3-Node Network Arena with simulated ARP poisoning vs Dynamic ARP Inspection (DAI) and static table pinning, Capstone x86/x64 shellcode disassembler & bad-char auditor, stateful mutation protocol fuzzer with register snapshot crash triage & Windows ACL auditor, and Shannon entropy static binary triage with YARA-style signatures.
+- 🔬 **Interactive CPU Stack Visualizer**: Live call-frame memory inspector with dynamic toggles for Stack Canary (SSP), NX/DEP, ASLR, and PIE compiler mitigations.
+- 📡 **Telemetry Broadcaster & SQLite Persistence**: High-throughput asynchronous FastAPI WebSocket hub with 30s heartbeat, thread-pool SQLite persistence in WAL mode, and Prometheus `/metrics` exposition.
+- 🖥️ **Cyber-Ops Dashboard & Rich CLI**: Dark-mode React 19 + TypeScript + Vite + Tailwind CSS v4 dashboard with animated SVG topology graphs, paired with rich terminal companion (`aegisctl`).
+- 🐳 **Dual Execution Paradigm**: Zero-privilege portable simulation mode out of the box paired with multi-stage Docker Compose sandbox environments.
+
+```
+Stack: Python 3.11+ • FastAPI • React 19 • TypeScript • Vite • Tailwind v4 • WebSockets • Capstone • SQLite WAL • Docker
+```
+<p>
+  <a href="https://github.com/yashwantraj147-eng/aegisforge"><img src="https://img.shields.io/badge/View_Repo-00ff87?style=flat-square&logo=github&logoColor=black"/></a>
+  <a href="https://github.com/yashwantraj147-eng/aegisforge/actions"><img src="https://img.shields.io/badge/CI-Passing-brightgreen?style=flat-square"/></a>
+  <a href="https://github.com/yashwantraj147-eng/aegisforge"><img src="https://img.shields.io/badge/Tests-49_Passed-00b4d8?style=flat-square"/></a>
+  <a href="https://github.com/yashwantraj147-eng/aegisforge"><img src="https://img.shields.io/badge/Mode-Dual_Simulation-purple?style=flat-square"/></a>
+</p>
+
+</td>
 <td width="50%" valign="top">
 
 ### 🍯 [Honeypot-System v2.0 Enterprise](https://github.com/yashwantraj147-eng/honeypot-system)
@@ -77,6 +101,9 @@ Stack: Python 3.11+ • FastAPI • aiohttp • Paramiko • aiosqlite • Docke
 </p>
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### 📊 [SIEM Dashboard Engine](https://github.com/yashwantraj147-eng/siem-dashboard)
@@ -100,9 +127,6 @@ Stack: Python 3.12 • FastAPI • SQLAlchemy • Chart.js • Docker • Pytest
 </p>
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 ### 🛡️ [NIDS Project](https://github.com/yashwantraj147-eng/nids-project)
@@ -123,6 +147,9 @@ Stack: Python 3.11 • Scapy • Scikit-Learn • Rich CLI • Network Forensics
 </p>
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### 🌐 [Phantom Grid](https://github.com/yashwantraj147-eng/phantom-grid)
@@ -143,9 +170,6 @@ Stack: TypeScript • Three.js • WebGL • GLSL • Cyber Telemetry
 </p>
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 ### 🔍 [RepoLens](https://github.com/yashwantraj147-eng/repolens)
@@ -166,6 +190,9 @@ Stack: Python 3.11 • FastAPI • React 18 • Tailwind CSS • Pytest
 </p>
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### ⚡ [AetherDB](https://github.com/yashwantraj147-eng/AetherDB)
@@ -186,9 +213,6 @@ Stack: Java (21–26) • Virtual Threads • Zero External Dependencies • JUn
 </p>
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 ### 📖 [PageTurn](https://github.com/yashwantraj147-eng/pageturn)
@@ -209,6 +233,9 @@ Stack: Electron 33 • React 18 • TypeScript • SQLite WAL • Vitest
 </p>
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### ⏳ [KronoKV](https://github.com/yashwantraj147-eng/KronoKV)
@@ -229,16 +256,37 @@ Stack: Java 21 • Temporal Indexing • Snapshot Queries • Memory-Mapped I/O
 </p>
 
 </td>
+<td width="50%" valign="top">
+
+### 🧙 [File Wizard](https://github.com/yashwantraj147-eng/file-wizard)
+**Polyglot Command-Line Data Format Conversion Engine**
+
+High-performance Python command-line utility for seamless conversions between CSV, JSON, YAML, XML, TOML, and Markdown formats.
+
+- 🪄 **Auto-Magic Format Detection**: Automatically infers input and output data structures from file extensions.
+- 💅 **Dry Run & Pretty Printing**: Safe execution simulation mode with `--dry-run` and syntax-highlighted output.
+- 🔁 **Pipeline Stdin/Stdout Ready**: Native unix pipeline support for streaming data transformations in bash/zsh.
+
+```
+Stack: Python 3.10+ • Click • PyYAML • toml • xmltodict • Pytest
+```
+<p>
+  <a href="https://github.com/yashwantraj147-eng/file-wizard"><img src="https://img.shields.io/badge/View_Repo-00ff87?style=flat-square&logo=github&logoColor=black"/></a>
+  <a href="https://github.com/yashwantraj147-eng/file-wizard/actions"><img src="https://img.shields.io/badge/CI-Passing-brightgreen?style=flat-square"/></a>
+</p>
+
+</td>
 </tr>
 </table>
 
 ---
 
-## 📂 `// REPOSITORY DIRECTORY (ALL 23 NODES)`
+## 📂 `// REPOSITORY DIRECTORY (ALL 24 NODES)`
 
 ### 🛡️ Cybersecurity, SIEM & Threat Defense
 | Repository | Domain | Core Arsenal | Description |
 |:---|:---|:---|:---|
+| 🛡️ **[aegisforge](https://github.com/yashwantraj147-eng/aegisforge)** | Purple-Team Range | `Python 3.11+` `FastAPI` `React 19` `TypeScript` `WebSockets` `Capstone` `SQLite WAL` `Docker` | Industry-grade purple-team cyber range & vulnerability workbench with 5 engines, Capstone disassembler, stack visualizer, fuzzer, and Rich CLI |
 | 🍯 **[honeypot-system](https://github.com/yashwantraj147-eng/honeypot-system)** | Deception Grid | `Python` `FastAPI` `aiohttp` `Paramiko` `STIX 2.1` | Autonomous multi-service decoy grid (SSH, HTTP, FTP, Telnet) with real-time MITRE ATT&CK mapping, active tarpits, gzip defense bombs, and pfSense/OPNsense feeds |
 | 📊 **[siem-dashboard](https://github.com/yashwantraj147-eng/siem-dashboard)** | SIEM & SecOps | `Python 3.12` `FastAPI` `SQLAlchemy` `Chart.js` `Docker` `MITRE` | Enterprise SIEM engine with sliding-window threat correlation, batch ingestion, MITRE ATT&CK mapping, alert triage & real-time SSE |
 | 🛡️ **[nids-project](https://github.com/yashwantraj147-eng/nids-project)** | Intrusion Detection | `Python` `Scapy` `Random Forest` `Rich` | Dual-stage Network Intrusion Detection with deterministic heuristics & ML anomaly classification |
@@ -253,7 +301,7 @@ Stack: Java 21 • Temporal Indexing • Snapshot Queries • Memory-Mapped I/O
 | 🗄️ **[AetherDB](https://github.com/yashwantraj147-eng/AetherDB)** | Storage Engine | `Java 21+` `LSM-Trees` `WAL` `RLE/Dictionary` | Custom storage engine prototype unifying append-only LSM key-value pipeline and vectorized columnar tiers |
 | ⏳ **[KronoKV](https://github.com/yashwantraj147-eng/KronoKV)** | Temporal DB | `Java` `Temporal Index` `Snapshot Queries` | Time-aware key-value store with historical point-in-time snapshot queries and MemTable flushes |
 | ⚔️ **[emberforge](https://github.com/yashwantraj147-eng/emberforge)** | Game Systems | `C++17` `OOP Architecture` `CLI Engine` | High-fantasy text-mode RPG combat simulator & engine built with modern C++ OOP principles |
-| 🧙 **[file-wizard](https://github.com/yashwantraj147-eng/file-wizard)** | Data Pipelines | `Python` `Click` `Rich` `Polyglot Format` | High-performance CLI tool for converting data between CSV, JSON, YAML, XML, TOML, and Markdown |
+| 🧙 **[file-wizard](https://github.com/yashwantraj147-eng/file-wizard)** | Data Pipelines | `Python` `Click` `PyYAML` `Polyglot Format` | High-performance CLI tool for converting data between CSV, JSON, YAML, XML, TOML, and Markdown |
 
 ### 🔍 Autonomous Developer Tooling & Intelligence
 | Repository | Domain | Core Arsenal | Description |
@@ -282,10 +330,10 @@ Stack: Java 21 • Temporal Indexing • Snapshot Queries • Memory-Mapped I/O
 
 | Domain | Core Tools & Frameworks |
 |:---|:---|
-| **Security & Forensics** | `Kali Linux` • `Wireshark` • `Nmap` • `Metasploit` • `Burp Suite` • `Scapy` • `MITRE ATT&CK` • `OASIS STIX 2.1` • `pfSense / OPNsense` • `SIEM Correlators` |
-| **Languages & Systems** | `TypeScript` • `Python 3.11/3.12` • `Java (21–26)` • `C++17` • `GNU Bash` • `SQL` • `GLSL` |
-| **Application Frameworks** | `Electron 33` • `React 18/19` • `FastAPI` • `aiohttp` • `Vite 6` • `Three.js` • `Tailwind CSS` • `Docker` |
-| **Storage & Engines** | `SQLite (WAL)` • `aiosqlite` • `LSM-Trees` • `Write-Ahead Logging (WAL)` • `Bloom Filters` • `PostgreSQL` |
+| **Security & Forensics** | `Kali Linux` • `Wireshark` • `Nmap` • `Metasploit` • `Burp Suite` • `Scapy` • `Capstone Engine` • `MITRE ATT&CK` • `OASIS STIX 2.1` • `pfSense / OPNsense` • `SIEM Correlators` • `YARA` |
+| **Languages & Systems** | `TypeScript` • `Python 3.11/3.12/3.13` • `Java (21–26)` • `C++17` • `GNU Bash` • `SQL` • `GLSL` |
+| **Application Frameworks** | `Electron 33` • `React 18/19` • `FastAPI` • `aiohttp` • `Vite 6` • `Three.js` • `Tailwind CSS v4` • `Docker` • `WebSockets` • `Next.js 14` |
+| **Storage & Engines** | `SQLite (WAL)` • `aiosqlite` • `LSM-Trees` • `Write-Ahead Logging (WAL)` • `Bloom Filters` • `PostgreSQL` • `Prometheus Metrics` |
 
 </div>
 

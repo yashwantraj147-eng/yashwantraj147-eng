@@ -68,7 +68,7 @@ A production-grade, modular purple-team platform pairing offensive vulnerability
 - 🐳 **Dual Execution Paradigm**: Zero-privilege portable simulation mode out of the box paired with multi-stage Docker Compose sandbox environments.
 
 ```
-Stack: Python 3.11+ • FastAPI • React 19 • TypeScript • Vite • Tailwind v4 • WebSockets • Capstone • SQLite WAL • Docker
+Stack: Python 3.12 • FastAPI • React 19 • TypeScript 6 • Vite 8 • Tailwind v4 • WebSockets • Capstone • SQLite WAL • Docker
 ```
 <p>
   <a href="https://github.com/yashwantraj147-eng/aegisforge"><img src="https://img.shields.io/badge/View_Repo-00ff87?style=flat-square&logo=github&logoColor=black"/></a>
@@ -95,7 +95,7 @@ Stack: Python 3.11+ • FastAPI • aiohttp • Paramiko • aiosqlite • Docke
 ```
 <p>
   <a href="https://github.com/yashwantraj147-eng/honeypot-system"><img src="https://img.shields.io/badge/View_Repo-00ff87?style=flat-square&logo=github&logoColor=black"/></a>
-  <a href="https://github.com/yashwantraj147-eng/honeypot-system/blob/master/README.md"><img src="https://img.shields.io/badge/Version-v2.0_Enterprise-00b4d8?style=flat-square"/></a>
+  <a href="https://github.com/yashwantraj147-eng/honeypot-system/blob/main/README.md"><img src="https://img.shields.io/badge/Version-v2.0_Enterprise-00b4d8?style=flat-square"/></a>
   <a href="https://github.com/yashwantraj147-eng/honeypot-system"><img src="https://img.shields.io/badge/MITRE-ATT%26CK_Mapped-red?style=flat-square"/></a>
   <a href="https://github.com/yashwantraj147-eng/honeypot-system"><img src="https://img.shields.io/badge/NIDS-Snort%20%2F%20Suricata-yellow?style=flat-square"/></a>
 </p>
@@ -139,7 +139,7 @@ Production-ready Network Intrusion Detection System with live packet capture, du
 - 🖥️ **Live Terminal HUD**: High-frequency terminal UI built with Python Rich for live packet stream metrics.
 
 ```
-Stack: Python 3.11 • Scapy • Scikit-Learn • Rich CLI • Network Forensics
+Stack: Python 3.11–3.13 • Scapy • Scikit-Learn • Rich CLI • Network Forensics
 ```
 <p>
   <a href="https://github.com/yashwantraj147-eng/nids-project"><img src="https://img.shields.io/badge/View_Repo-00ff87?style=flat-square&logo=github&logoColor=black"/></a>
@@ -182,7 +182,7 @@ Portfolio-grade repository analysis engine. Provide any public GitHub repository
 - 🚀 **Contributor Onboarding**: Generates terminal quickstarts, setup guides, and testing workflows tailored to detected languages.
 
 ```
-Stack: Python 3.11 • FastAPI • React 18 • Tailwind CSS • Pytest
+Stack: Python 3.12 • FastAPI • React 19 • Tailwind CSS v4 • Vite 8 • Vitest • Pytest
 ```
 <p>
   <a href="https://github.com/yashwantraj147-eng/repolens"><img src="https://img.shields.io/badge/View_Repo-00ff87?style=flat-square&logo=github&logoColor=black"/></a>
@@ -205,7 +205,7 @@ Custom storage engine written in Java exploring the unified convergence between 
 - 🧭 **Raft & Sharding Prototype**: In-memory Raft state machine simulation with 64 consistent-hashing virtual nodes (`vnodes`).
 
 ```
-Stack: Java (21–26) • Virtual Threads • Zero External Dependencies • JUnit 5
+Stack: Java (21–26) • Virtual Threads • Zero External Dependencies • JUnit 6
 ```
 <p>
   <a href="https://github.com/yashwantraj147-eng/AetherDB"><img src="https://img.shields.io/badge/View_Repo-00ff87?style=flat-square&logo=github&logoColor=black"/></a>
@@ -225,7 +225,7 @@ A production desktop reader supporting EPUB, PDF, Kindle (MOBI/AZW3), Comics (CB
 - ⚡ **Local SQLite Engine**: Fast catalog caching, annotations, and reading progress synchronization via `better-sqlite3`.
 
 ```
-Stack: Electron 33 • React 18 • TypeScript • SQLite WAL • Vitest
+Stack: Electron 45 • React 19 • TypeScript 6 • Tailwind CSS v4 • SQLite WAL • Vitest
 ```
 <p>
   <a href="https://github.com/yashwantraj147-eng/pageturn"><img src="https://img.shields.io/badge/View_Repo-00ff87?style=flat-square&logo=github&logoColor=black"/></a>
@@ -248,7 +248,7 @@ High-performance temporal key-value storage engine engineered for time-travel qu
 - 🔍 **Range & Prefix Iterators**: Fast sequential access patterns optimized for time-series and audit logs.
 
 ```
-Stack: Java 21 • Temporal Indexing • Snapshot Queries • Memory-Mapped I/O
+Stack: Java 21 • Temporal Indexing • Snapshot Queries • Memory-Mapped I/O • JUnit 6
 ```
 <p>
   <a href="https://github.com/yashwantraj147-eng/KronoKV"><img src="https://img.shields.io/badge/View_Repo-00ff87?style=flat-square&logo=github&logoColor=black"/></a>
@@ -306,14 +306,14 @@ Stack: Python 3.10+ • Click • PyYAML • toml • xmltodict • Pytest
 ### 🔍 Autonomous Developer Tooling & Intelligence
 | Repository | Domain | Core Arsenal | Description |
 |:---|:---|:---|:---|
-| 🔍 **[repolens](https://github.com/yashwantraj147-eng/repolens)** | DevTools & AST | `Python 3.11` `FastAPI` `React` `Mermaid.js` | Instant architecture diagrams, plain-English summaries, contributor onboarding guides, and health scores |
-| 📜 **[gitstory](https://github.com/yashwantraj147-eng/gitstory)** | Storytelling & Git | `TypeScript` `React` `Canvas API` | Animated repository historical narrative engine with interactive timelines and contributor race charts |
-| 🤖 **[skills-copilot-codespaces-vscode](https://github.com/yashwantraj147-eng/skills-copilot-codespaces-vscode)** | Cloud & Agentic | `Python` `VS Code` `GitHub Copilot` | Agentic developer workflows, Copilot skills, Codespaces templates, and automated environment configs |
+| 🔍 **[repolens](https://github.com/yashwantraj147-eng/repolens)** | DevTools & AST | `Python 3.12` `FastAPI` `React 19` `Tailwind v4` `Mermaid` | Instant architecture diagrams, plain-English summaries, contributor onboarding guides, and health scores |
+| 📜 **[gitstory](https://github.com/yashwantraj147-eng/gitstory)** | Storytelling & Git | `Next.js 16` `React 19` `TypeScript` `Tailwind v4` `Recharts` | Animated repository historical narrative engine with interactive timelines and contributor race charts |
+| 💊 **[skills-copilot-codespaces-vscode](https://github.com/yashwantraj147-eng/skills-copilot-codespaces-vscode)** | ML & Vision API | `Python` `CNN` `NumPy` `Pillow` `Pytest` | Fake medicine packaging anomaly detector with custom CNN classifier, visual feature extractors, and WSGI REST API |
 
 ### 🖥️ Creative Desktop Environments & Simulation Engines
 | Repository | Domain | Core Arsenal | Description |
 |:---|:---|:---|:---|
-| 📖 **[pageturn](https://github.com/yashwantraj147-eng/pageturn)** | Desktop Reader | `Electron 33` `React 18` `TypeScript` `SQLite` | Cross-platform desktop e-book reader with synchronized TTS karaoke word highlighting & 4 themes |
+| 📖 **[pageturn](https://github.com/yashwantraj147-eng/pageturn)** | Desktop Reader | `Electron 45` `React 19` `TypeScript 6` `Tailwind v4` `SQLite` | Cross-platform desktop e-book reader with synchronized TTS karaoke word highlighting & 4 themes |
 | 📻 **[project-somnia](https://github.com/yashwantraj147-eng/project-somnia)** | Alternate OS | `React 19` `Web Audio` `VFS` `Investigation` | Deeply interactive fictional alternate-reality operating system with terminal shell & mystery board |
 | 🔬 **[eidolon-laboratory](https://github.com/yashwantraj147-eng/eidolon-laboratory)** | Simulation | `TypeScript` `Three.js` `Electron` | Living desktop laboratory for artificial realities with 3D observatory & temporal branching engine |
 | 🎪 **[oddlyworld](https://github.com/yashwantraj147-eng/oddlyworld)** | Physics Playground | `TypeScript` `Three.js` `Physics Simulation` | Whimsical desktop toybox featuring 3D miniature universes, modular creature physics & Chaos Engine |
@@ -331,8 +331,8 @@ Stack: Python 3.10+ • Click • PyYAML • toml • xmltodict • Pytest
 | Domain | Core Tools & Frameworks |
 |:---|:---|
 | **Security & Forensics** | `Kali Linux` • `Wireshark` • `Nmap` • `Metasploit` • `Burp Suite` • `Scapy` • `Capstone Engine` • `MITRE ATT&CK` • `OASIS STIX 2.1` • `pfSense / OPNsense` • `SIEM Correlators` • `YARA` |
-| **Languages & Systems** | `TypeScript` • `Python 3.11/3.12/3.13` • `Java (21–26)` • `C++17` • `GNU Bash` • `SQL` • `GLSL` |
-| **Application Frameworks** | `Electron 33` • `React 18/19` • `FastAPI` • `aiohttp` • `Vite 6` • `Three.js` • `Tailwind CSS v4` • `Docker` • `WebSockets` • `Next.js 14` |
+| **Languages & Systems** | `TypeScript 6/7` • `Python 3.11–3.13` • `Java (17–26)` • `C++17` • `GNU Bash` • `SQL` • `GLSL` |
+| **Application Frameworks** | `Electron 45` • `React 19` • `Next.js 16` • `FastAPI` • `aiohttp` • `Vite 8` • `Three.js` • `Tailwind CSS v4` • `Docker` • `WebSockets` |
 | **Storage & Engines** | `SQLite (WAL)` • `aiosqlite` • `LSM-Trees` • `Write-Ahead Logging (WAL)` • `Bloom Filters` • `PostgreSQL` • `Prometheus Metrics` |
 
 </div>
